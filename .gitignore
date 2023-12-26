@@ -2,3 +2,4 @@
 # since it contains my Mongodb account info and other sensitive data
 .env
 package-lock.json
+node_modules
